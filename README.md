@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @IsaakWoof
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I'm @IsaakWoof or Tatiana Poteshkina, I'm 18 years old
+- I am interested in the idea of continuous self-development and improvement of myself and the world around me.
+- Now I am studying at the Almaty State Polytechnic College as a technician-programmer.
+- I want to try myself in interesting and exciting projects.
 
-<!---
-IsaakWoof/IsaakWoof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

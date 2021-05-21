@@ -1,6 +1,1 @@
-- Hi, I'm @IsaakWoof or Tatiana Poteshkina, I'm 18 years old
-- I am interested in the idea of ​​constant self-development and improvement of myself and the world around me.
-- Now I am studying at the Almaty State Polytechnic College as a software engineer.
-- I want to try myself in interesting and exciting projects.
-- Development experience about 3 years
-- I work with Php, Python, Node.js, JS, Moodle, Git, React, Wordpress, Kivy - (a little bit)
+
